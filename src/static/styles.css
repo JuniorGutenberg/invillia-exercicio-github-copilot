@@ -142,3 +142,23 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Styles for participant component */
+.participant-list {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e3f2fd;
+  border: 1px solid #90caf9;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.participant-item {
+  background-color: #bbdefb;
+  color: #0d47a1;
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-size: 14px;
+}
